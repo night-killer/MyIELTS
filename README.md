@@ -363,3 +363,14 @@ warden是我的高中同学/邻居 放学路上经常聊天很投机 是一个�
 串题材料可以参考：[我的串题笔记](https://mica-watcher-de3.notion.site/IELTS-Speaking-1b08aba68f0380369883dcb355ed5131?pvs=74) 列大纲和调整都可以在notion里完成
 
 
+
+
+## Star History
+
+<a href="https://www.star-history.com/#mcxiaoxiao/myIELTS&type=date&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=mcxiaoxiao/myIELTS&type=date&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=mcxiaoxiao/myIELTS&type=date&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=mcxiaoxiao/myIELTS&type=date&legend=top-left" />
+ </picture>
+</a>
